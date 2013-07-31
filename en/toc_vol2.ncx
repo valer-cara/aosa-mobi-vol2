@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+<meta name="dtb:uid" content="BookId"/>
+</head>
+   <docTitle><text>The Architecture of Open Source Applications Vol.2</text></docTitle>
+
+   <navMap>
+    <navPoint id='navPoint-1' playOrder='1'>
+        <navLabel><text>Introduction</text></navLabel>
+        <content src='intro2.html'/>
+    </navPoint>
+    <navPoint id='navPoint-2' playOrder='2'>
+        <navLabel><text>Scalable Web Architecture and Distributed Systems</text></navLabel>
+        <content src='distsys.html'/>
+    </navPoint>
+    <navPoint id='navPoint-3' playOrder='3'>
+        <navLabel><text>Firefox Release Engineering</text></navLabel>
+        <content src='ffreleng.html'/>
+    </navPoint>
+    <navPoint id='navPoint-4' playOrder='4'>
+        <navLabel><text>FreeRTOS</text></navLabel>
+        <content src='freertos.html'/>
+    </navPoint>
+    <navPoint id='navPoint-5' playOrder='5'>
+        <navLabel><text>GDB</text></navLabel>
+        <content src='gdb.html'/>
+    </navPoint>
+    <navPoint id='navPoint-6' playOrder='6'>
+        <navLabel><text>The Glasgow Haskell Compiler</text></navLabel>
+        <content src='ghc.html'/>
+    </navPoint>
+    <navPoint id='navPoint-7' playOrder='7'>
+        <navLabel><text>Git</text></navLabel>
+        <content src='git.html'/>
+    </navPoint>
+    <navPoint id='navPoint-8' playOrder='8'>
+        <navLabel><text>GPSD</text></navLabel>
+        <content src='gpsd.html'/>
+    </navPoint>
+    <navPoint id='navPoint-9' playOrder='9'>
+        <navLabel><text>The Dynamic Language Runtime and the Iron Languages</text></navLabel>
+        <content src='ironlang.html'/>
+    </navPoint>
+    <navPoint id='navPoint-10' playOrder='10'>
+        <navLabel><text>ITK</text></navLabel>
+        <content src='itk.html'/>
+    </navPoint>
+    <navPoint id='navPoint-11' playOrder='11'>
+        <navLabel><text>GNU Mailman</text></navLabel>
+        <content src='mailman.html'/>
+    </navPoint>
+    <navPoint id='navPoint-12' playOrder='12'>
+        <navLabel><text>matplotlib</text></navLabel>
+        <content src='matplotlib.html'/>
+    </navPoint>
+    <navPoint id='navPoint-13' playOrder='13'>
+        <navLabel><text>MediaWiki</text></navLabel>
+        <content src='mediawiki.html'/>
+    </navPoint>
+    <navPoint id='navPoint-14' playOrder='14'>
+        <navLabel><text>Moodle</text></navLabel>
+        <content src='moodle.html'/>
+    </navPoint>
+    <navPoint id='navPoint-15' playOrder='15'>
+        <navLabel><text>nginx</text></navLabel>
+        <content src='nginx.html'/>
+    </navPoint>
+    <navPoint id='navPoint-16' playOrder='16'>
+        <navLabel><text>Open MPI</text></navLabel>
+        <content src='openmpi.html'/>
+    </navPoint>
+    <navPoint id='navPoint-17' playOrder='17'>
+        <navLabel><text>OSCAR</text></navLabel>
+        <content src='oscar.html'/>
+    </navPoint>
+    <navPoint id='navPoint-18' playOrder='18'>
+        <navLabel><text>Processing.js</text></navLabel>
+        <content src='pjs.html'/>
+    </navPoint>
+    <navPoint id='navPoint-19' playOrder='19'>
+        <navLabel><text>Puppet</text></navLabel>
+        <content src='puppet.html'/>
+    </navPoint>
+    <navPoint id='navPoint-20' playOrder='20'>
+        <navLabel><text>PyPy</text></navLabel>
+        <content src='pypy.html'/>
+    </navPoint>
+    <navPoint id='navPoint-21' playOrder='21'>
+        <navLabel><text>SQLAlchemy</text></navLabel>
+        <content src='sqlalchemy.html'/>
+    </navPoint>
+    <navPoint id='navPoint-22' playOrder='22'>
+        <navLabel><text>Twisted</text></navLabel>
+        <content src='twisted.html'/>
+    </navPoint>
+    <navPoint id='navPoint-23' playOrder='23'>
+        <navLabel><text>Yesod</text></navLabel>
+        <content src='yesod.html'/>
+    </navPoint>
+    <navPoint id='navPoint-24' playOrder='24'>
+        <navLabel><text>Yocto</text></navLabel>
+        <content src='yocto.html'/>
+    </navPoint>
+    <navPoint id='navPoint-25' playOrder='25'>
+        <navLabel><text>ZeroMQ</text></navLabel>
+        <content src='zeromq.html'/>
+    </navPoint>
+    <navPoint id='navPoint-26' playOrder='26'>
+        <navLabel><text>Bibliography</text></navLabel>
+        <content src='bib2.html'/>
+    </navPoint>
+   </navMap>
+</ncx>
+
